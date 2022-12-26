@@ -1,16 +1,19 @@
+/data/
 exp/
+checkpoints/
 dataset/*.tar
 dataset/cifar100/
 dataset/tinyimagenet200/
 dataset/dog/
 dataset/inat17/
 dataset/JD/
-
+cvs_result/
+collections/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+.idea/
 # C extensions
 *.so
 
